@@ -1,0 +1,188 @@
+https://www.bankfax.ru/
+78.40.217.137 (80/tcp, 443/tcp)
+
+https://www.ap22.ru/
+185.146.157.112 (80/tcp, 443/tcp)
+
+https://biwork.ru/
+188.225.43.89 (80/tcp, 443/tcp)
+
+https://tolknews.ru/
+94.228.121.243 (80/tcp, 443/tcp)
+
+https://politsib.ru/
+94.228.121.243 (80/tcp, 443/tcp)
+
+https://1line.info/
+109.68.213.207 (80/tcp, 443/tcp)
+
+https://mkset.ru/
+5.188.73.213 (80/tcp, 443/tcp)
+
+https://prufy.ru/
+85.119.149.231 (80/tcp, 443/tcp)
+
+https://ufanotes.ru/
+94.228.118.7 (80/tcp, 443/tcp)
+
+https://sterlegrad.ru/
+89.108.106.96 (80/tcp, 443/tcp)
+
+https://www.baikal-daily.ru/
+94.228.127.105 (80/tcp, 443/tcp)
+
+https://www.infpol.ru/
+62.109.6.113 (80/tcp, 443/tcp)
+
+https://gazeta-n1.ru/
+188.225.35.249 (80/tcp, 443/tcp)
+
+https://vtinform.com/
+62.109.1.23 (80/tcp, 443/tcp)
+
+https://newbur.ru/
+176.57.216.109 (80/tcp, 443/tcp)
+
+https://asiarussia.ru/
+185.114.247.104 (80/tcp, 443/tcp)
+
+https://baikalskieogni.ru/
+141.101.196.238 (80/tcp, 443/tcp)
+
+https://www.baikal-media.ru/
+5.23.53.158 (80/tcp, 443/tcp)
+
+https://chernovik.net/
+77.223.125.198 (80/tcp, 443/tcp)
+
+https://mirmol.ru/
+94.228.125.167 (80/tcp, 443/tcp)
+
+http://dagpravda.ru/
+95.214.62.12 (80/tcp, 443/tcp)
+
+https://ndelo.ru/
+176.96.228.34 (80/tcp, 443/tcp)
+
+https://md-gazeta.ru/
+88.212.253.201 (80/tcp, 443/tcp)
+
+https://midag.ru/
+87.236.16.254 (80/tcp, 443/tcp)
+
+http://kbrria.ru/
+31.31.198.91 (80/tcp, 443/tcp)
+
+https://www.kbpravda.ru/
+31.31.196.249 (80/tcp, 443/tcp)
+
+https://riakalm.ru/
+46.38.57.241 (80/tcp, 443/tcp)
+
+http://kalmykia-online.ru/
+194.58.121.14 (80/tcp, 443/tcp)
+
+https://tegrk.ru/
+95.181.228.235 (80/tcp, 443/tcp)
+
+https://www.riakchr.ru/
+5.101.152.179 (80/tcp, 443/tcp)
+
+https://cherkessk09.ru/
+77.222.61.196 (80/tcp, 443/tcp)
+
+https://stolicaonego.ru/
+159.255.25.2 (80/tcp, 443/tcp)
+
+https://karelinform.ru/
+5.188.73.213 (80/tcp, 443/tcp)
+
+https://ptzgovorit.ru/
+176.112.202.27 (80/tcp, 443/tcp)
+
+https://novkos.ru/
+31.31.198.45 (80/tcp, 443/tcp)
+
+https://gubdaily.ru/
+95.213.146.45 (80/tcp, 443/tcp)
+
+https://64parallel.ru/
+93.188.42.36 (80/tcp, 443/tcp)
+
+https://komiinform.ru/
+94.198.55.22 (80/tcp, 443/tcp)
+
+https://www.bnkomi.ru/
+152.89.216.244 (80/tcp, 443/tcp)
+
+https://komionline.ru/
+62.173.145.150 (80/tcp, 443/tcp)
+
+https://pg11.ru/
+212.41.26.46 (80/tcp, 443/tcp)
+
+http://gazetamv.ru/
+31.31.198.181 (80/tcp, 443/tcp)
+
+https://www.gtrkmariel.ru/
+82.146.48.243 (80/tcp, 443/tcp)
+
+https://yocity12.com/news/
+185.200.242.160 (80/tcp, 443/tcp)
+
+https://www.vnd12.ru/news/
+5.23.51.252 (80/tcp, 443/tcp)
+
+https://www.marpravda.ru/
+46.229.214.55 (80/tcp, 443/tcp)
+
+https://pg12.ru/news
+212.41.26.46 (80/tcp, 443/tcp)
+
+https://info-rm.com/
+46.229.213.134 (80/tcp, 443/tcp)
+
+https://www.mordovmedia.ru/
+185.151.241.112 (80/tcp, 443/tcp)
+
+https://izvmor.ru/
+185.175.46.102 (80/tcp, 443/tcp)
+
+https://ampravda.ru/
+217.25.90.128 (80/tcp, 443/tcp)
+
+https://www.amur.life/
+92.42.15.139 (80/tcp, 443/tcp)
+
+https://asn24.ru/
+80.87.203.176 (80/tcp, 443/tcp)
+
+https://portamur.ru/
+185.63.189.178 (80/tcp, 443/tcp)
+
+https://www.amur.info/
+188.68.216.77 (80/tcp, 443/tcp)
+
+https://www.zvportal.ru/
+81.177.143.35 (80/tcp, 443/tcp)
+
+http://gazeta-bam.ru/
+141.101.196.238 (80/tcp, 443/tcp)
+
+https://2x2.su/
+46.254.19.78 (80/tcp, 443/tcp)
+
+https://echosevera.ru/
+185.12.94.189 (80/tcp, 443/tcp)
+
+https://pravdasevera.ru/
+91.201.40.99 (80/tcp, 443/tcp)
+
+https://www.pomorie.ru/
+185.12.95.94 (80/tcp, 443/tcp)
+
+https://region29.ru/
+91.201.40.99 (80/tcp, 443/tcp)
+
+https://dvinatoday.ru/
+92.53.124.58 (80/tcp, 443/tcp)
